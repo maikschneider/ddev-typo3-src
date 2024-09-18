@@ -21,7 +21,7 @@ web_environment:
 - PATH=/var/www/html/htdocs/typo3/sysext/core/bin:${PATH}
 - TYPO3_CONTEXT=Development
 - TYPO3_MAJOR_VERSION=10
-- TYPO3_SRC_VERSION=
+- TYPO3_SRC_VERSION=10.4.37
 - TYPO3_LOCAL_EXTENSIONS=
 
 
